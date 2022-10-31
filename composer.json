@@ -1,0 +1,11 @@
+{
+    "name": "achappard/test",
+    "description": "Repo de test pour faire un composer create-project",
+    "authors": [
+        {
+            "name": "Aurélien Chappard",
+            "email": "aurelien.chappard@deefuse.fr"
+        }
+    ],
+    "require": {}
+}
